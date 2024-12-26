@@ -1,11 +1,10 @@
 {
-    "name": "theorgman/template-package-php81",
-    "description": "A ready-to-use PHP package template specifically designed for PHP 8.1",
+    "name": "theorgman/newton",
+    "description": "A simple project designed to learn the process of creating and releasing PHP packages using GitHub and Packagist.",
     "keywords": [
-        "theorgman",
-        "template"
+        "theorgman"
     ],
-    "homepage": "https://github.com/theorgman/template-package-php81",
+    "homepage": "https://github.com/theorgman/newton",
     "license": "MIT",
     "authors": [
         {
@@ -23,12 +22,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Theorgman\\TemplatePackagePhp81\\": "src"
+            "Theorgman\\Newton\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Theorgman\\TemplatePackagePhp81\\Tests\\": "tests"
+            "Theorgman\\Newton\\Tests\\": "tests"
         }
     },
     "minimum-stability": "stable",
