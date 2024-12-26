@@ -1,6 +1,6 @@
 <?php
 
-namespace Theorgman\TemplatePackagePhp81\Tests;
+namespace Theorgman\Newton\Tests;
 
 use PHPUnit\Framework\TestCase as BaseTestCase;
 
