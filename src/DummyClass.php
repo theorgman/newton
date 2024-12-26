@@ -1,6 +1,6 @@
 <?php
 
-namespace Theorgman\TemplatePackagePhp81;
+namespace Theorgman\Newton;
 
 class DummyClass
 {
