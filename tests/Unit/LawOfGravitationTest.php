@@ -13,5 +13,3 @@ it('calculates gravitational force correctly', function () {
 
     expect(abs($calculatedValue - $expectedValue) < PHP_FLOAT_EPSILON)->toBeTrue();
 });
-
-
